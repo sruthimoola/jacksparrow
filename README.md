@@ -6,5 +6,5 @@ This repository is responsible for all the development work towards the completi
 
 
 
-We created a branch with name 'branch2'. I are working on the same branch.
+We created a branch with name 'branch2'. I am currently working on the same branch.
 (Updated based on manager's comments)
